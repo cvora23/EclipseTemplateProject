@@ -71,7 +71,4 @@ inline void assure(std::ofstream& out,
   }
 }
 
-
-
-
 #endif /* REQUIRE_H_ */
