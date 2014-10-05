@@ -18,7 +18,7 @@
 #include <cstdlib>
 #include <fstream>
 #include <string>
-#include <math>
+#include <math.h>
 
 inline void require(bool requirement,
   const std::string& msg = "Requirement failed"){
