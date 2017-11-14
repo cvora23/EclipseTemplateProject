@@ -1,0 +1,67 @@
+Arrays
+==========
+
+1: LargestSubArrayWithContiguousElements
+2: FindSmallestPositiveIntegerThatCannotBeRepresentedAsSumOfAnySubsetOfGivenArray
+3: RearrangeArrayAlternatePositiveNegativeItemsWithO1Space2
+4: FindNextNumberSameSetOfDigits
+5: SmallestSubarrayWithSumGreaterThanGivenValue
+6: FindIfSubarrayWithSumZero
+7: FindMinInSortedAndRotated
+8: PrintAllCombinationsOfRElementsINArraySizeN
+9: SortElementsByFrequency
+10:MaximumDifferenceTwoElementsSuchThatLargerElemenAfterSmallerElement
+
+Strings
+=============
+
+1: RevereseWordsUsingOneByteMemory
+2: CheckIfStringsRotationOfEachOther
+3: RemoveDuplicateCharsFromString
+4: RLE
+5: OneAway
+6: PalindromePermutation
+7: TwoStringPermutationsOfEachOther
+
+StacksAndQueues
+==================
+
+1: SingleArrayAsKStacks
+2: SingleArrayAsThreeStacksFixedDivision
+3: PushPopMinValInStack
+4: SortStackUsingExtraStack
+5: StackWithOperationsOnMiddleElement
+
+LinkedList
+=======================
+
+1: DeleteNodeDoubleLinkedList
+2: DelNodesWhichHaveGreaterValueOnRightSide
+3: FlattenMultiLevelLinkList
+4: MemoryEfficientDoublyXORLinkedList
+5: AlternatingSplit
+6: DetectAndRemoveLoopInLinkedList
+7: MergeLinkListAtAlternatePositions
+8: PartitionLinkedList
+9: SegregateOddAndEven
+
+BinaryTrees
+========================
+
+1: DeletingNode
+2: InorderTraversalWithoutRecursion
+3: IterativePostOrderTraversalTwoStacks
+4: DiameterOfBinaryTree
+5: MaximumWidthOfBinaryTree
+6: CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder
+7: FindIfThereisTripletInBalancedBSTWhichAddsToZero
+8: FindInorderSuccessorForGivenNodeOfBST
+9: InorderSuccessorForAllNodes
+10:IsBST
+11:BinaryTreeToDoublyLinkedList
+12:CompleteBinaryTreeFromLinkedListRepresentation
+13:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey
+14:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty
+15:ConvertTreeToItsSumTree
+16:SortedArrayToBalancedBST
+17:BstSequence
