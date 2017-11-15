@@ -65,3 +65,65 @@ BinaryTrees
 15:ConvertTreeToItsSumTree
 16:SortedArrayToBalancedBST
 17:BstSequence
+
+Graphs
+=============================
+
+1: BFS
+2: DFS
+3: DetectCycleDirectedGraph
+4: DetectCycleUnDirectedGraph
+5: TopologicalSorting
+6: FindIfPathBet2Vertices
+7: FindNoIslands
+8: ShortestPathDAG
+9: StronglyConnectedComponentsKosaraju
+10:ArticulationPoints - IGNORED
+
+Divide and Conquer
+================================
+
+1: MaxSubArraySum
+2: MedianTwoSortedArraysEqualSize
+3: MaxMinInArrayWithMinComparisons
+4: MajorityElementInSortedArray
+5: CountInversionsInAnArray
+
+Recursion
+==================================
+
+1: MagicIndex
+2: RecursiveMultiply
+3: PermutationsWithoutDups
+4: GenerateParenthesis
+
+Dynamic Programming
+===================================
+
+1: LargestSumContiguousSubArray
+2: MaxSizeSquareSubMatrixWithAll1s
+3: UglyNumbers
+4: LengthOfLongestSubstringWithoutRepeatingChars
+5: RobotInGrid
+
+
+BackTracking
+===================================
+
+1: EightQueens
+2: PermutationsOfAGivenString
+3: KnightsTour
+4: RatInAMaze
+5: Sudoko
+MORE QUESTIONS NOT ADDED THOUGH
+
+
+Difficult Problems
+================================
+
+1: Trie
+2: BoggleDFS
+3: ReverseDNSLookup
+4: LRUCacheImpl
+5: MinHeap
+6: MergeKSortedArrays
